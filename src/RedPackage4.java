@@ -234,6 +234,7 @@ public class RedPackage4 {
                 min = a[i];
                 recmin = i + 1;
             }
+
         }
         return recmin;// 返回最小值的序号
     }
