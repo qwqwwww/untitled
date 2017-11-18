@@ -190,6 +190,10 @@ public class RedPackage4 {
         return a;
     }
 
+    /**
+     * @param a
+     * @return
+     */
     public static double sum(double[] a) {
         double sum = 0;
         for (int i = 0; i <= a.length - 1; i++)
